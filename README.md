@@ -72,22 +72,22 @@ The dataset was provided by the company’s finance department. It contains sale
 This analysis includes interactive visuals for the following key business questions:
 
 ### Dashboard Screenshot
-![Dashboard Screenshot](images/dashboard-screenshot.png)
+![Dashboard Screenshot](Images/dashboard-screenshot.png)
 
 ### Most Popular Shipping Mode
-![Most Popular Shipping Mode](images/most-popular-shipping-mode.png)
+![Most Popular Shipping Mode](Images/most-popular-shipping-mode.png)
 
 ### Top 10 Customers by Revenue
-![Top 10 Customers by Revenue](images/top-10-customers-by-revenue.png)
+![Top 10 Customers by Revenue](Images/top-10-customers-by-revenue.png)
 
 ### Top 5 Products by Quantity Sold
-![Top 5 Products by Quantity Sold](images/top-5-products-by-quantity-sold.png)
+![Top 5 Products by Quantity Sold](Images/top-5-products-by-quantity-sold.png)
 
 ### Top 5 Product Categories by Revenue
-![Top 5 Product Categories by Revenue](images/top-5-product-categories-by-revenue.png)
+![Top 5 Product Categories by Revenue](Images/top-5-product-categories-by-revenue.png)
 
 ### Customer Segment Contributing the Most Revenue
-![Customer Segment Contributing the Most Revenue](images/customer-segment-contribution.png)
+![Customer Segment Contributing the Most Revenue](Images/customer-segment-contribution.png)
 
 
 ## Recommendations
