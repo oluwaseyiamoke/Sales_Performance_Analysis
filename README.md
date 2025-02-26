@@ -44,16 +44,16 @@ The dataset was provided by the company’s finance department. It contains sale
 
 ## Key Findings
 1. **Total Revenue & Business Performance**
-   - The company generated **$34,255,029** in revenue over the 2015-2018 period.
+   - The company generated **$34,258,729** in revenue over the 2015-2018 period.
    - While this reflects strong sales, breaking it down by customer segments, product categories, and individual customers helps identify growth opportunities.
 
 2. **Most Popular Shipping Mode**
-   - The company processed **169,141** orders during this period.
-   - **Standard Class** shipping was the most used method, accounting for **60%** of total orders (101,033 orders). This preference could be due to its affordability and balance between cost and speed.
+   - The company processed **169,152** orders during this period.
+   - **Standard Class** shipping was the most used method, accounting for **60%** of total orders (101,044 orders). This preference could be due to its affordability and balance between cost and speed.
 
 3. **Top 10 Customers by Revenue**
    - The business served **20,652** customers during this period.
-   - The highest-contributing customer, **Mary Smith**, accounted for **13%** of total revenue.
+   - The highest-contributing customer, **Mary Smith**, accounted for **$410,122** of total revenue. 
 
 4. **Top 5 Products by Quantity Sold**
    - Certain products, such as the **Perfect Fitness Perfect Rip Deck**, had significantly higher sales volumes.
@@ -98,10 +98,10 @@ This analysis includes interactive visuals for the following key business questi
 2. **Enhance Customer Retention Strategies**
    - Introduce **loyalty programs** (e.g., discounts, early access to new products, or dedicated account managers) for top customers.
    - Tailor marketing strategies based on customer **purchase patterns** and insights gained from top 10 customers to create targeted promotions and personalized offers.
-   - Analyze purchasing behavior to introduce relevant **cross-selling** opportunities for high-value customers.
+   - Analyze purchasing behaviour to introduce relevant **cross-selling** opportunities for high-value customers.
 
 3. **Improve Inventory Management**
-   - Ensure sufficient **stock levels** for top-selling products. A detailed analysis of **demand patterns** (e.g., seasonal trends or high demand periods) will help optimize procurement and avoid overstocking or shortages.
+   - Ensure sufficient **stock levels** for top-selling products. A detailed analysis of **demand patterns** (e.g., seasonal trends or high-demand periods) will help optimize procurement and avoid overstocking or shortages.
    - Consider leveraging **demand forecasting** techniques to ensure inventory is aligned with upcoming sales periods and expected demand.
 
 4. **Expand High-Performing Product Categories**
@@ -109,7 +109,7 @@ This analysis includes interactive visuals for the following key business questi
    - Explore pricing strategies for these high-performing categories—if margins are high, consider offering discounts or bundling related products to increase overall sales.
 
 5. **Target Key Customer Segments**
-   - Develop personalized promotions for the **Consumer** customer segment, which contributes the most revenue. You could offer volume-based discounts or exclusive member benefits to drive further sales.
+   - Develop personalized promotions for the **Consumer** customer segment, contributing the most revenue. You could offer volume-based discounts or exclusive member benefits to drive further sales.
    - Identify potential barriers for other customer segments (e.g., **Home Office** and **Corporate**). Consider adjusting pricing strategies, improving awareness, or offering specialized product bundles to address their unique needs.
 
 6. **Monitor & Reduce Order Cancellations**
